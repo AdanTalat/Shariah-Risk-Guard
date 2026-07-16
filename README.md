@@ -79,6 +79,12 @@ These indicators are weighted to calculate an Overall Regulatory Risk Score (ORR
 
 ---
 
+### Core Principle
+
+> *"Your bank's risk is the risk of your worst domain, and a single Shariah failure makes the entire bank CRITICAL."*
+
+---
+
 ## Steps to run the app:
 Create a Virtual Environment
 ```
@@ -98,12 +104,29 @@ streamlit run app.py
 ```
 ---
 
-## Disclaimer
+### Dashboard: 
+![Project Screenshot](Final-Proj/images/Dashboard.png)
 
-This project was developed for academic and research purposes as part of a university cybersecurity governance course. It is a prototype intended to demonstrate governance, risk assessment, and regulatory compliance concepts and is not intended for production deployment.
+### Domain Breakdown:
+![Project Screenshot](Final-Proj/images/DomainBreakdown.png)
 
+### KRI inputs(10 domains):
+![Project Screenshot](Final-Proj/images/KRI_inputs.png)
 
+### KRIs Table:
+![Project Screenshot](Final-Proj/images/KRIsTable.png)
 
+### PDF Export:
+![Project Screenshot](Final-Proj/images/PDFExport.png)
+
+### Result:
+![Project Screenshot](Final-Proj/images/Results.png)
+
+### Risk Assesment:
+![Project Screenshot](Final-Proj/images/RiskAndCompliance.png)
+
+### PDF Sample:
+![Project Screenshot](Final-Proj/images/PDFSample.png)
 
 
 
