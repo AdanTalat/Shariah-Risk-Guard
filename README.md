@@ -3,8 +3,6 @@
 
 ShariahGuard is a prototype Governance, Risk, and Compliance (GRC) platform designed to help Islamic financial institutions assess cybersecurity and regulatory compliance through measurable Key Risk Indicators (KRIs).
 
-The project consolidates cybersecurity regulations, governance frameworks, and Islamic banking standards into a unified compliance dashboard that calculates an Overall Regulatory Risk Score (ORRS) and generates management-ready reports.
-
 ---
 
 ## Problem Statement
